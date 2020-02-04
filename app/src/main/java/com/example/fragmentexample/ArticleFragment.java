@@ -14,6 +14,7 @@ public class ArticleFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view=inflater.inflate(R.layout.fragment_layout,container,false);
+
         return view;
     }
 }
