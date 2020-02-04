@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentExample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name">Headline Fragment</string>
+    <string name="name2">Article Fragment</string>
+    <string name="name3">Example</string>
+</resources>
